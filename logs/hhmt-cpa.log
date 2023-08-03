@@ -1,0 +1,24 @@
+2023-06-30 12:37:59,739:INFO main (StartupInfoLogger.java:55) - Starting DemoApplicationTests using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 20092 (started by zusheng in D:\workspace-idea\demo)
+2023-06-30 12:37:59,749:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-06-30 12:38:03,387:INFO main (StartupInfoLogger.java:61) - Started DemoApplicationTests in 4.217 seconds (JVM running for 7.796)
+2023-07-03 19:20:49,198:INFO main (StartupInfoLogger.java:55) - Starting DemoApplication using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 10212 (D:\workspace-idea\demo\target\classes started by zusheng in D:\workspace-idea\demo)
+2023-07-03 19:20:49,211:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-03 19:20:51,055:INFO main (StartupInfoLogger.java:61) - Started DemoApplication in 2.324 seconds (JVM running for 5.553)
+2023-07-03 19:28:20,055:ERROR main (Test.java:11) - 这是个错误！！
+2023-07-03 19:30:56,283:INFO main (StartupInfoLogger.java:55) - Starting DemoApplicationTests using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 14360 (started by zusheng in D:\workspace-idea\demo)
+2023-07-03 19:30:56,291:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-03 19:31:02,551:INFO main (StartupInfoLogger.java:61) - Started DemoApplicationTests in 6.708 seconds (JVM running for 10.938)
+2023-07-03 19:47:15,362:INFO main (StartupInfoLogger.java:55) - Starting DemoApplicationTests using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 22140 (started by zusheng in D:\workspace-idea\demo)
+2023-07-03 19:47:15,370:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-03 19:47:19,466:INFO main (StartupInfoLogger.java:61) - Started DemoApplicationTests in 4.481 seconds (JVM running for 6.98)
+2023-07-03 19:47:52,119:ERROR main (Test.java:11) - 这是个错误！！
+2023-07-03 19:48:08,264:INFO main (StartupInfoLogger.java:55) - Starting DemoApplication using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 4672 (D:\workspace-idea\demo\target\classes started by zusheng in D:\workspace-idea\demo)
+2023-07-03 19:48:08,275:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-03 19:48:09,634:INFO main (StartupInfoLogger.java:61) - Started DemoApplication in 1.71 seconds (JVM running for 3.892)
+2023-07-03 19:53:39,467:INFO main (StartupInfoLogger.java:55) - Starting DemoApplicationTests using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 18136 (started by zusheng in D:\workspace-idea\demo)
+2023-07-03 19:53:39,477:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-03 19:53:45,403:INFO main (StartupInfoLogger.java:61) - Started DemoApplicationTests in 6.432 seconds (JVM running for 9.764)
+2023-07-03 20:02:58,521:ERROR main (Test.java:11) - 这是个错误！！
+2023-07-21 09:08:42,643:INFO main (StartupInfoLogger.java:55) - Starting DemoApplication using Java 1.8.0_40 on WINDOWS-NJ0T0NF with PID 15472 (D:\workspace-idea\demo\target\classes started by zusheng in D:\workspace-idea\demo)
+2023-07-21 09:08:42,654:INFO main (SpringApplication.java:634) - No active profile set, falling back to 1 default profile: "default"
+2023-07-21 09:08:45,917:INFO main (StartupInfoLogger.java:61) - Started DemoApplication in 3.684 seconds (JVM running for 6.995)
